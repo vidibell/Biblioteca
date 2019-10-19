@@ -25,7 +25,7 @@ SECRET_KEY = 'd-1qj@c5%d%a+ib=!krcwjr%_x4a0t@rz062pd9=fiqtw^tnrj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["http://viridianav.pythonanywhere.com/"]
+ALLOWED_HOSTS = ["viridianav.pythonanywhere.com"]
 
 
 # Application definition
